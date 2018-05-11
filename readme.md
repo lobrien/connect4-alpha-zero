@@ -1,3 +1,8 @@
+TODO: 
+- Change README to show new goals, explicit acknowledgement and link back to Zeta36 original 
+- Create new game model for tic-tac-toe
+- Extend to ultimate tic-tac-toe
+
 About
 =====
 
